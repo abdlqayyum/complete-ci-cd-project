@@ -202,7 +202,7 @@ $(function () {
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 
 	var swiper = new Swiper('.heroslider', {
-		spaceBetween: 32,
+		spaceBetween: 30,
 		centeredSlides: true,
 		slidesPerView: 'auto',
 		paginationClickable: true,
