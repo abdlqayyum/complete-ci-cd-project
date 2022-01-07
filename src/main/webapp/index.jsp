@@ -524,7 +524,7 @@
                                     <a href="#"><img src="icon/loc.png" alt="#" /></a>London 145
                                     <br>United Kingdom </li>
                                 <li>
-                                    <a href="#"><img src="icon/email.png" alt="#" /></a>demo@gmail.com </li>
+                                    <a href="#"><img src="icon/eail.png" alt="#" /></a>demo@gmail.com </li>
                                 <li>
                                     <a href="#"><img src="icon/call.png" alt="#" /></a>+12586954775 </li>
                             </ul>
