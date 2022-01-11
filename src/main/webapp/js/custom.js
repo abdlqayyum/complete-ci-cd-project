@@ -70,7 +70,7 @@ $(function () {
 		owl.owlCarousel({
 			items: 1,
 			loop: true,
-			margin: 10,
+			margin: 12,
 			autoplay: true,
 			autoplayTimeout: 3000,
 			autoplayHoverPause: true
