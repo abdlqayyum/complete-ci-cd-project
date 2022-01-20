@@ -9,7 +9,7 @@ on:
 
 jobs:
   test:
-    runs-on: CentOS 7
+    runs-on: macOS-latest
     steps:
     - name: Checkout
       uses: actions/checkout@v2
