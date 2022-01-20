@@ -20,8 +20,7 @@ jobs:
         java-version: 8
     - name: Build and Test
       run:  | 
-           wget http://github.com/zoul/Finch/archive/master.zip
-           tar -zvxf master.zip
+           curl -L http://github.com/zoul/Finch/archive/cfeb671ac55f6b1aba6ed28b9bc9b246e0e.zip
            
 #          curl -s https://raw.githubusercontent.com/paulp/sbt-extras/master/sbt > sbt && chmod 0755 sbt
         #  java $SBT_OPTS -jar */bin/sbt/sbt-launch.jar "$@"
