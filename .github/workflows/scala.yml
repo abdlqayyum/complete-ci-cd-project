@@ -21,7 +21,7 @@ jobs:
     - name: Build and Test
       run:  | 
            wget http://github.com/zoul/Finch/archive/master.zip
-           tar -zvxf */zoul/Finch/archive/master.zip
+           tar -zvxf master.zip
            
 #          curl -s https://raw.githubusercontent.com/paulp/sbt-extras/master/sbt > sbt && chmod 0755 sbt
         #  java $SBT_OPTS -jar */bin/sbt/sbt-launch.jar "$@"
