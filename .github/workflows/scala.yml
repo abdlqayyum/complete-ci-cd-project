@@ -21,4 +21,5 @@ jobs:
     - name: Build and Test
       run:  | 
           sbt -v +test
+          curl -s https://raw.githubusercontent.com/paulp/sbt-extras/master/sbt > sbt && chmod 0755 sbt
         #  java $SBT_OPTS -jar */bin/sbt/sbt-launch.jar "$@"
